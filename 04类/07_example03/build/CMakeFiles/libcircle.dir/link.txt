@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibcircle.a  CMakeFiles/libcircle.dir/circle.o
+/usr/bin/ranlib liblibcircle.a

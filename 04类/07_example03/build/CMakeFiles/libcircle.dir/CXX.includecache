@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lzq/file/c++/04类/07_example03/circle.cpp
+circle.h
+/home/lzq/file/c++/04类/07_example03/circle.h
+
+/home/lzq/file/c++/04类/07_example03/circle.h
+iostream
+-
+point.h
+/home/lzq/file/c++/04类/07_example03/point.h
+
+/home/lzq/file/c++/04类/07_example03/point.h
+iostream
+-
+

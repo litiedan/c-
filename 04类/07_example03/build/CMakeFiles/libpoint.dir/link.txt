@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibpoint.a  CMakeFiles/libpoint.dir/point.o
+/usr/bin/ranlib liblibpoint.a
